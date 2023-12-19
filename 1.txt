@@ -1,4 +1,5 @@
 hello
+this is another line added in feature2 to see the changes
 
 ohh this ia new  line in 1.txt
 
